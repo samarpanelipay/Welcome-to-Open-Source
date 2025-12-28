@@ -63,7 +63,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Samarpan Elipay" />
                     <br />
                     <sub>
-                        <b>Elipay Samarpan</b>
+                        <b>E.Samarpan</b>
                     </sub>
                 </a>
             </td>
